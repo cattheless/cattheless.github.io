@@ -1,0 +1,15 @@
+body {
+	line-height: 150%
+}
+
+a { 
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ea5c06;
+}
+
+a:active {
+    color: #fa983f;
+}

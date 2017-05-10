@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<ul class="yeah">
+<li class="tight"><img src="/img/aboot.jpg" /></li>
+<li class="tight"><p>Cathy Schmeichel (aka Catherine Borck, post-marriage) is an artist, designer, and cartoonist based in Milwaukee, WI. She finds joy in her cute family, comics, food, animals, and discovering aspects of the Midwest that are almost as good as her native Pacific Northwest.
+<br/><br/>
+Here is her <a href="../resume/">resume</a>.
+</p></li>
+</ul>
+<!--<ul>
+	<li><a href="../resume/">resume</a></li>
+	<li><a href="mailto:{{ site.email }}">email</a></li>
+	<li><a href="https://twitter.com/cattheless">twitter</a></li>
+	<li><a href="https://catherinetheless.tumblr.com">tumblr</a></li>
+	<li><a href="https://instagram.com/cattheless">instagram</a></li>
+</ul>-->
+<br/><br/>
+<h6>Also, btw, I built this site with <a href="https://jekyllrb.com">jekyll</a> </h6>

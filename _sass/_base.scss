@@ -23,6 +23,8 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    line-height: 150%;
+    letter-spacing: 0.5px;
 }
 
 
@@ -34,7 +36,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 3;
 }
 
 
@@ -47,7 +49,9 @@ img {
     vertical-align: middle;
 }
 
-
+.banner {
+	z-index: 999;
+}
 
 /**
  * Figures
@@ -67,6 +71,10 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+}
+
+ul.gridz, ol.gridz {
+    margin-left: 0;
 }
 
 li {
@@ -99,8 +107,10 @@ a {
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $hover-color;
+    }
+    &:active {
+        color: lighten($hover-color, 15%);
     }
 }
 
@@ -167,8 +177,8 @@ pre {
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+       // padding-right: $spacing-unit / 2;
+       // padding-left: $spacing-unit / 2;
     }
 }
 
@@ -195,12 +205,23 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 36px;
+        height: 36px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $grey-color-dark;
         }
+     a {
+     fill: $grey-color-dark;
+     }
+     a:hover {
+     fill: $grey-color-light;
+     }
+     
     }
+}
+
+.center {
+	text-align: center;
 }
