@@ -6,9 +6,12 @@ permalink: /illustration/
 <h1 class="page-heading">ILLUSTRATION</h1>
 
 <br>
-<p>I self-published this <a href="https://phobias.cathyschmeichel.com">alphabet book</a> in 2013:</p>
+<p>I self-published an alphabet book featuring phobias in 2013:</p>
 
-<a href="https://phobias.cathyschmeichel.com"><img src="/img/abc-cover.jpg" /> </a>
+<ul class="pic">
+	<li class="exp"><img src="/img/abc-cover.jpg" /></li>
+	<li class="exp"><img src="/img/abc-n.jpg" /></li>
+</ul>
 
 <br>
 <p>I make comics:</p>
