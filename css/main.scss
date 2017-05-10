@@ -1,13 +1,11 @@
 ---
+layout: null
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
-
-@import 'bourbon';
-@import 'neat';
-
-
+@import "bourbon/bourbon";
+@import "neat/neat";
 
 // Our variables
 $base-font-family: 'Open Sans', 'Source Sans Pro', Verdana, Arial, sans-serif;
@@ -37,7 +35,6 @@ $on-laptop:        800px;
 // added variables
 $header-font-family: 'Leckerli One', LeckerliOne, Pacifico, 'Domine', Georgia, serif;
 
-
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -49,24 +46,6 @@ $header-font-family: 'Leckerli One', LeckerliOne, Pacifico, 'Domine', Georgia, s
     @media screen and (max-width: $device) {
         @content;
     }
-}
-
-
-@mixin clearfix {
-  &::after {
-    clear: both;
-    content: "";
-    display: table;
-  }
-}
-
-@mixin outer-container($local-max-width: $max-width) {
-  @include clearfix;
-  max-width: $local-max-width;
-  margin: {
-    left: auto;
-    right: auto;
-  }
 }
 
 

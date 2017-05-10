@@ -20,4 +20,4 @@ location: Milwaukee, Wisconsin
 
 # Build settings
 markdown: kramdown
-gems: [bourbon, neat]
+# gems: [bourbon, neat]
