@@ -6,7 +6,7 @@ permalink: /design/
 <h1 class="page-heading">DESIGN</h1>
 <br>
 
-p>RECENT WORK</p>
+<p>Here are some recently completed works:</p>
 
 <ul class="pic">
 	<li class="exp"><img src="/img/wisc.png" /></li>
@@ -15,7 +15,7 @@ p>RECENT WORK</p>
 </ul>
 
 
-<p>LOGOS</p>
+<p>I make logos:</p>
 
 <ul class="pic">
 	<li class="thirty"><img src="/img/natca.png" /></li>
@@ -23,7 +23,7 @@ p>RECENT WORK</p>
 	<li class="thirty"><img src="/img/mamak.png" /></li>
 </ul>
 
-<p>INVITATIONS</p>
+<p>I also design invitations:</p>
 
 <ul class="pic">
 	<li class="exp"><img src="/img/snin.png" /></li>
