@@ -6,22 +6,32 @@ permalink: /design/
 <h1 class="page-heading">DESIGN</h1>
 <br>
 
-<p>I do logo design:</p>
+p>RECENT WORK</p>
 
 <ul class="pic">
+	<li class="exp"><img src="/img/wisc.png" /></li>
+	<li class="exp"><img src="/img/brambles.png" /></li>
+	<li class="exp"><img src="/img/cats.png" /></li>
+</ul>
+
+
+<p>LOGOS</p>
+
+<ul class="pic">
+	<li class="thirty"><img src="/img/natca.png" /></li>
 	<li class="thirty"><img src="/img/mcblogo.png" /></li>
 	<li class="thirty"><img src="/img/mamak.png" /></li>
 </ul>
 
-<p>And I also do invitations:</p>
+<p>INVITATIONS</p>
 
 <ul class="pic">
-	<li class="exp"><img src="/img/win.png" /></li>
+	<li class="exp"><img src="/img/snin.png" /></li>
 	<li class="exp"><img src="/img/jin.png" /></li>
 </ul>
 
-<br/>
-<p>But really I am open to making anything you might need! Just <a href="mailto:{{ site.email }}">contact me</a> and we can work something out.</p>
+<p><br /></p>
+<p>But really I am open to making anything you might need! Just <a href="mailto:schmeicheldesigns@gmail.com">contact me</a> and we can work something out.</p>
 
 <ul class="pic">
 	<li class="thirty"><img src="/img/slug.png" /></li>
