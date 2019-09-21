@@ -11,7 +11,7 @@ permalink: /design/
 <ul class="pic">
 	<li class="exp"><img src="/img/wisc.png" /></li>
 	<li class="exp"><img src="/img/cats.png" /></li>
-	<li class="exp"><img src="/img/brambles.png" /></li>
+	<li class="exp"><img src="/img/brambl.png" /></li>
 </ul>
 
 
