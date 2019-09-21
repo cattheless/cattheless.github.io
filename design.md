@@ -9,9 +9,9 @@ permalink: /design/
 <p>Here are some recently completed works:</p>
 
 <ul class="pic">
-	<li class="thirty"><img src="/img/wisc.png" /></li>
-	<li class="thirty"><img src="/img/brambles.png" /></li>
-	<li class="thirty"><img src="/img/cats.png" /></li>
+	<li class="exp"><img src="/img/wisc.png" /></li>
+	<li class="exp"><img src="/img/cats.png" /></li>
+	<li class="exp"><img src="/img/brambles.png" /></li>
 </ul>
 
 
