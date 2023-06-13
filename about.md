@@ -6,7 +6,7 @@ permalink: /about/
 
 <ul class="yeah">
 <li class="tight"><img src="/img/aboot.jpg" /></li>
-<li class="tight"><p>Cathy Schmeichel (aka Catherine Borck, post-marriage) is an artist, designer, and cartoonist based in Milwaukee, WI. She finds joy in her cute family, comics, food, animals, and discovering aspects of the Midwest that are almost as good as her native Pacific Northwest.
+<li class="tight"><p>Cathy Schmeichel (aka Catherine Borck, post-marriage) is an artist based in Milwaukee, WI. She finds joy in her faith, her cute family, comics, food, animals, and discovering aspects of the Midwest that are almost as good as her native Pacific Northwest.
 <br/><br/>
 Here is her <a href="../resume/">resume</a>.
 </p></li>
