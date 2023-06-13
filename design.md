@@ -11,6 +11,7 @@ permalink: /design/
 	
 </ul>
 <br>
+<br>
 
 <p>I make logos:</p>
 
@@ -35,3 +36,5 @@ permalink: /design/
 	<li class="thirty"><img src="/img/epiph.png" /></li>
 	<li class="thirty"><img src="/img/lotf.png" /></li>
 </ul>
+
+<br>
