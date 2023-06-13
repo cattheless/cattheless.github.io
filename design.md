@@ -21,7 +21,6 @@ permalink: /design/
 <ul class="pic">
 	<li class="thirty"><img src="/img/natca.png" /></li>
 	<li class="thirty"><img src="/img/mcblogo.png" /></li>
-	<li class="thirty"><img src="/img/mamak.png" /></li>
 </ul>
 
 <p>I also design invitations:</p>
@@ -35,7 +34,7 @@ permalink: /design/
 <p>But really I am open to making anything you might need! Just <a href="mailto:schmeicheldesigns@gmail.com">contact me</a> and we can work something out.</p>
 
 <ul class="pic">
-	<li class="thirty"><img src="/img/slug.png" /></li>
+	<li class="thirty"><img src="/img/wrinkle.png" /></li>
 	<li class="thirty"><img src="/img/epiph.png" /></li>
 	<li class="thirty"><img src="/img/lotf.png" /></li>
 </ul>
