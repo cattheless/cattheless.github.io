@@ -10,7 +10,6 @@ permalink: /design/
 	<li class="exp"><img src="/img/brambl.png" /></li>
 	<li class="exp"><img src="/img/wisc.png" /></li>
 	<li class="exp"><img src="/img/pod.png" /></li>
-	<li class="exp"><img src="/img/maze.png" /></li>
 	
 </ul>
 <br>
