@@ -6,8 +6,6 @@ permalink: /design/
 <h1 class="page-heading">DESIGN</h1>
 <br>
 
-<p>Here are some recently completed works:</p>
-
 <ul class="pic">
 	<li class="exp"><img src="/img/wisc.png" /></li>
 	<li class="exp"><img src="/img/brambl.png" /></li>
@@ -19,8 +17,8 @@ permalink: /design/
 
 <ul class="pic">
 	<li class="thirty"><img src="/img/region.png" /></li>
-	<li class="thirty"><img src="/img/natca.png" /></li>
 	<li class="thirty"><img src="/img/mcblogo.png" /></li>
+	<li class="thirty"><img src="/img/natca.png" /></li>
 </ul>
 
 <p>I also design invitations:</p>
