@@ -5,13 +5,12 @@ permalink: /design/
 
 <h1 class="page-heading">DESIGN</h1>
 <br>
-<br>
 <ul class="pic">
 	<li class="exp"><img src="/img/wisc.png" /></li>
 	<li class="exp"><img src="/img/brambl.png" /></li>
 	
 </ul>
-
+<br>
 
 <p>I make logos:</p>
 
