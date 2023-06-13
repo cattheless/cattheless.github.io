@@ -33,8 +33,8 @@ permalink: /illustration/
 	<li class="exp"><img src="/img/sloths.png" /></li>
 	<li class="exp"><img src="/img/charles.png" /></li>
 	<li class="exp"><img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/279772586_10224255583288760_5953758915037258528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=T2cRus4BihQAX8pBHj8&_nc_ht=scontent-ord5-2.xx&oh=00_AfB6JnooD1N4utiA-x9XviMVzdMariNoe_FgDVQcIKAMWA&oe=648D6F85" /></li>
-	<li class="exp"><img src="/img/reflect.png" /></li>
 	<li class="exp"><img src="/img/AveChile.png" /></li>
+	<li class="exp"><img src="/img/reflect.png" /></li>
 	<li class="exp"><img src="/img/cactus.png" /></li>
 	<li class="exp"><img src="/img/rose.png" /></li>
 </ul>
