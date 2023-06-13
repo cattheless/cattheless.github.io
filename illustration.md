@@ -37,5 +37,5 @@ permalink: /illustration/
 
 <br>
 
-<p>(Follow me on <a href="https://instagram.com/cattheless">Instagram</a> or <a href="https://twitter.com/cattheless">Twitter</a> to see what else I've been making!)</p>
+<p>(Follow me on <a href="https://instagram.com/cattheless">Instagram</a> or <a href="https://twitter.com/cattheless">Twitter</a> to see what else I've been making)</p>
 <br>
