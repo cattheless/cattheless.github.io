@@ -10,15 +10,15 @@ permalink: /design/
 
 <ul class="pic">
 	<li class="exp"><img src="/img/wisc.png" /></li>
-	<li class="exp"><img src="/img/cats.png" /></li>
 	<li class="exp"><img src="/img/brambl.png" /></li>
-	<li class="exp"><img src="/img/region.png" /></li>
+	
 </ul>
 
 
 <p>I make logos:</p>
 
 <ul class="pic">
+	<li class="thirty"><img src="/img/region.png" /></li>
 	<li class="thirty"><img src="/img/natca.png" /></li>
 	<li class="thirty"><img src="/img/mcblogo.png" /></li>
 </ul>
