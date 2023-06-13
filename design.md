@@ -6,8 +6,10 @@ permalink: /design/
 <h1 class="page-heading">DESIGN</h1>
 <br>
 <ul class="pic">
-	<li class="exp"><img src="/img/wisc.png" /></li>
+	<li class="exp"><img src="/img/post.png" /></li>
 	<li class="exp"><img src="/img/brambl.png" /></li>
+	<li class="exp"><img src="/img/wisc.png" /></li>
+	<li class="exp"><img src="/img/pod.png" /></li>
 	
 </ul>
 <br>
