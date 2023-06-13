@@ -14,7 +14,7 @@ permalink: /illustration/
 </ul>
 
 <br>
-<p>I make comics:</p>
+<p>I make comics (click for full-size):</p>
 
 <ul class="pic">
 	<li class="exp"><a href="/img/sp1.png" target="_blank"><img src="/img/sp1.png" /></a></li>
