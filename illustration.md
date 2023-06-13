@@ -22,35 +22,14 @@ permalink: /illustration/
 </ul>
 
 <br>
-<p>I enjoy making vector tattoo flash:</p>
+<p>And I illustrate in all kinds of media</p>
 
-<ul class="pic">
-	<li class="exp"><img src="/img/bebe.png" /></li>
-	<li class="exp"><img src="/img/salmon-s.png" /></li>
-</ul>
-
-<br>
-<p>I share post-it drawings on my <a href="https://instagram.com/cattheless">Instagram</a>:</p>
-
-<ul class="pic">
-	<li class="thirty"><img src="/img/vamp.png" /></li>
-	<li class="thirty"><img src="/img/monono.png" /></li>
-	<li class="thirty"><img src="/img/mon.png" /></li>
-</ul>
-
-<br>
-<p>AND I also do portraits, if you'd like to <a href="/portraits/">commission</a> one!</p>
-
-<ul class="pic">
-	<li class="exp"><img src="/img/charles.png" /></li>
-	<li class="exp"><img src="/img/seag.png" /></li>
-</ul>
-
-<br>
-<p>(You can go to my <a href="https://{{ site.tumblr_username }}.tumblr.com/tagged/my%20art">tumblr</a> to see more of my work)</p>
 <ul class="pic">
 	<li class="exp"><img src="http://68.media.tumblr.com/4cc785754ffa28ba47c813a8a13e7517/tumblr_nlhsx8YAYz1qemft7o1_500.png" /></li>
-	<li class="exp"><img src="http://68.media.tumblr.com/8be6bdec175321e8677b58d9e7eb55c9/tumblr_nbnzyaVlxz1qemft7o1_500.png" /></li>
-	<li class="exp"><img src="http://68.media.tumblr.com/f002dc885b1d265e1cc01dccf43a65d6/tumblr_npusilvw2T1qemft7o1_500.png" /></li>
-	<li class="exp"><img src="http://68.media.tumblr.com/a1fb628f48f9b509935b0de1e0b3b9d7/tumblr_nwfv9lTBU31qemft7o1_500.gif" /></li>
+	<li class="exp"><img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/279772586_10224255583288760_5953758915037258528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=T2cRus4BihQAX8pBHj8&_nc_ht=scontent-ord5-2.xx&oh=00_AfB6JnooD1N4utiA-x9XviMVzdMariNoe_FgDVQcIKAMWA&oe=648D6F85" /></li>
+	<li class="exp"><img src="/img/charles.png" /></li>
+	<li class="exp"><img src="https://68.media.tumblr.com/a1fb628f48f9b509935b0de1e0b3b9d7/tumblr_nwfv9lTBU31qemft7o1_500.gif" /></li>
+	
 </ul>
+
+<p>Follow me on <a href="https://instagram.com/cattheless">Instagram</a> or <a href="https://twitter.com/cattheless">Twitter</a> to see what else I've been making</p>
