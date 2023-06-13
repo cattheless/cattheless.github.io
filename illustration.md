@@ -47,7 +47,7 @@ permalink: /illustration/
 </ul>
 
 <br>
-<p>(You can go to my <a href="https://{{ site.tumblr_username }}.tumblr.com/tagged/my-art">tumblr</a> to see more of my work)</p>
+<p>(You can go to my <a href="https://{{ site.tumblr_username }}.tumblr.com/tagged/my%20art">tumblr</a> to see more of my work)</p>
 <ul class="pic">
 	<li class="exp"><img src="http://68.media.tumblr.com/4cc785754ffa28ba47c813a8a13e7517/tumblr_nlhsx8YAYz1qemft7o1_500.png" /></li>
 	<li class="exp"><img src="http://68.media.tumblr.com/8be6bdec175321e8677b58d9e7eb55c9/tumblr_nbnzyaVlxz1qemft7o1_500.png" /></li>
