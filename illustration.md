@@ -24,7 +24,7 @@ permalink: /illustration/
 </ul>
 
 <br>
-<p>And I illustrate in all kinds of media:</p>
+<p>And I illustrate in different media:</p>
 
 <ul class="pic">
 	<li class="exp"><img src="http://68.media.tumblr.com/4cc785754ffa28ba47c813a8a13e7517/tumblr_nlhsx8YAYz1qemft7o1_500.png" /></li>
