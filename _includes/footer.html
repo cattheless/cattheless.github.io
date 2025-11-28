@@ -18,7 +18,12 @@
           <li>MY INTERNETS</li>
           <li class="shift-left"> <ul class="social-media-list">
           
-		          {% if site.twitter_username %}
+		      {% if site.bsky_username %}
+		          <li>
+		            {% include icon-bsky.html %}
+		          </li>
+		          {% endif %}    
+			  {% if site.twitter_username %}
 		          <li>
 		            {% include icon-twitter.html %}
 		          </li>
