@@ -24,18 +24,17 @@
 		          </li>
 		          {% endif %}    
 
-				 {% if site.twitter_username %}
-		          <li>
-		            {% include icon-twitter.html %}
-		          </li>
-		          {% endif %}
-			  
 		          {% if site.instagram_username %}
 		          <li>
 		            {% include icon-instagram.html %}
 		          </li>
 		          {% endif %}
-		          
+
+			  	{% if site.email %}
+		          <li>
+		            {% include icon-email.html %}
+		          </li>
+		          {% endif %}
 		       </ul>
 		 </li>
 		</ul>
