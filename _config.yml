@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello! I am an illustrator, designer, cartoonist, etc. based in Milwaukee, WI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cathyschmeichel.com" # the base hostname & protocol for your site
+bsky_username: catherinetheless
 twitter_username: cattheless
 tumblr_username: catherinetheless
 instagram_username: cattheless
